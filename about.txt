@@ -1,0 +1,1 @@
+This repo contain my practical which ,I did in 1st semister of making Virtual Machines by the help of Circuits.
